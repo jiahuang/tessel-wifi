@@ -1,0 +1,23 @@
+{
+  "name": "tessel-wifi",
+  "version": "0.0.1",
+  "description": "wrapper around the cc3000 wifi lib",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jiahuang/tessel-wifi.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tessel",
+    "wifi",
+    "cc3000"
+  ],
+  "author": "jiahuang",
+  "license": "MIT"
+}
